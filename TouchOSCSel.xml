@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<GMA3 DataVersion="1.6.3.5">
+    <Plugin Name="TouchOSCSel" Guid="00 00 00 00 E1 12 00 00 50 F5 30 AC 82 CE 2D 6C" Version="0.0.0.0">
+        <ComponentLua Guid="00 00 00 00 1F 12 00 00 6E F5 30 AC 67 D1 2D 6C">
+            <FileContent Size="1">
+                <Block Base64="bG9jYWwgZnVuY3Rpb24gbWFpbigpDQoJbG9jYWwgY291bnQgPSAxOw0KCXJlcGVhdAoJCUNtZCgiU2VuZE9TQyAxIFwiL1NlbGVjdGlvbi9sYiIuLmNvdW50Li4iLHMsXCIiDSkKCQljb3VudCA9IGNvdW50ICsgMQoJdW50aWwoY291bnQgPiAxMikKCWxvY2FsIGNvdW50ID0gMTsKICAgIGxvY2FsIHN1YmZpeHR1cmVJbmRleCA9IFNlbGVjdGlvbkZpcnN0KCk7CgoJaWYgc3ViZml4dHVyZUluZGV4IHRoZW4KCSAgICByZXBlYXQNCgkJCWxvY2FsIFN1YmZpeHR1cmVIYW5kbGUgPSBHZXRTdWJmaXh0dXJlKHN1YmZpeHR1cmVJbmRleCkNCgkJCUNtZCgiU2VuZE9TQyAxIFwiL1NlbGVjdGlvbi9sYiIuLmNvdW50Li4iLHMsIi4uU3ViZml4dHVyZUhhbmRsZS5maWQuLiJcIiINKQoJCQljb3VudCA9IGNvdW50ICsgMQoJICAgICAgICBzdWJmaXh0dXJlSW5kZXggPSBTZWxlY3Rpb25OZXh0KHN1YmZpeHR1cmVJbmRleCkNCgkgICAgdW50aWwgbm90IHN1YmZpeHR1cmVJbmRleDsNCgkJZW5kDQoNCWVuZApyZXR1cm4gbWFpbg==" />
+            </FileContent>
+        </ComponentLua>
+    </Plugin>
+</GMA3>
