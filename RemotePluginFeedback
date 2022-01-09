@@ -1,0 +1,22 @@
+local function main()
+	local count = 1;
+	repeat
+		Cmd("SendOSC 1 \"/Selection/lb"..count..",s,\""
+)
+		count = count + 1
+	until(count > 12)
+	local count = 1;
+    local subfixtureIndex = SelectionFirst();
+
+	if subfixtureIndex then
+	    repeat
+			local SubfixtureHandle = GetSubfixture(subfixtureIndex)
+			Cmd("SendOSC 1 \"/Selection/lb"..count..",s,"..SubfixtureHandle.fid.."\""
+)
+			count = count + 1
+	        subfixtureIndex = SelectionNext(subfixtureIndex)
+	    until not subfixtureIndex;
+		end
+
+	end
+return main
