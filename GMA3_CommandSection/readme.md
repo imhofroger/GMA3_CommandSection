@@ -1,4 +1,4 @@
-# GrandMA3 OnPC Command Section - EXPERIMENTAL
+# GrandMA3 OnPC Command Section
 
 # INFO
 -Not testet on any Android or Apple Tablets  
